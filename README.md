@@ -4,17 +4,16 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
-sy0408x/sy0408x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 ## Hi ，I'm Yao! :wave:    
 
-- 🏡 技术博客：<a href="https://syao.cc" target="_blank">hacv.gitee.io</a>   
+- 🏡 技术博客：<a href="https://syao.cc" target="_blank">syao.cc</a>   
 - 🌱 技术分享
 - 💬 邮箱：sy@003x.cc
-- 🤔 联系方式：<a href="http://wpa.qq.com/msgrd?v=3&uin=5921397&site=qq&menu=yes" target="_blank">HACV 's Stack Overflow</a>   
-- ⭐️ GitHub镜像站：<a href="https://gitee.com/HACV" target="_blank">HACV 's Gitee</a>   
+- 🤔 联系方式：<a href="http://wpa.qq.com/msgrd?v=3&uin=5921397&site=qq&menu=yes" target="_blank">点击这里</a>   
+- ⭐️ GitHub镜像站：<a href="https://github.com/sy0408x" target="_blank">sy0408x</a>   
 
 
 
