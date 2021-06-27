@@ -8,7 +8,7 @@
 - 🌱 技术分享：Salted fish have no technique
 - 💬 邮箱：sy@003x.cc
 - 📫 联系方式：<a href="http://wpa.qq.com/msgrd?v=3&uin=5921397&site=qq&menu=yes" target="_blank">点击这里</a>   
-- ⭐️ GitHub镜像站：<a href="https://sy0408x.github.io/" target="_blank">sy0408x</a>   
+- ⭐️ GitHub镜像站：<a href="https://sy0408x.github.io/" target="_blank">syao.cc</a>   
 
 
 
